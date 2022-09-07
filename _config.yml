@@ -16,13 +16,13 @@ darkmode: false
 
 # Social links
 twitter_username: facespics
-github_username:  sproogen
+github_username:  BorealPanda
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
 instagram_username: sway.1351
-linkedin_username: swayam-chidrawar
+linkedin_username: swayamchidrawar
 # xing_username: jekyll
 # pinterest_username: jekyll
 youtube_username: globalmtb
@@ -57,7 +57,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Touch Free Hand Sanitizer Dispenser
+        title: 
         link: github.com/sproogen
         # link_text: Project Website
         additional_links:
@@ -99,6 +99,14 @@ content:
           During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
 
           I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+
+        title: Pioneer Convent School
+        caption: 2020-2022
+        sub_title: Grade 12 (CBSE)
+        quote: >
+          Physics, Chemistry, Math, English
+        description: | # this will include new lines to allow paragraphs
+          96.8% | Valedictorian
 
   - title: A Little More About Me
     layout: text
