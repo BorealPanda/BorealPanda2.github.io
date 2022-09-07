@@ -105,6 +105,7 @@ content:
         sub_title: Grade 12 (CBSE)
         quote: >
           Physics, Chemistry, Math, English
+        layout : right
         description: | # this will include new lines to allow paragraphs
           96.8%, Valedictorian
 
