@@ -106,7 +106,7 @@ content:
         quote: >
           Physics, Chemistry, Math, English
         description: | # this will include new lines to allow paragraphs
-                                \t \t \t 96.8%, Valedictorian
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;96.8%, Valedictorian
 
   - title: A Little More About Me
     layout: text
