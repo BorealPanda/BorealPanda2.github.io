@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Swayam Chidrawar
-title: BSc Computer Science Freshman @Cal Poly, San Luis Obispo
+title: BS Computer Science Freshman @Cal Poly, San Luis Obispo
 email: schidraw@calpoly.edu
 website: www.github.com/sproogen/resume-theme
 
@@ -106,7 +106,7 @@ content:
         quote: >
           Physics, Chemistry, Math, English
         description: | # this will include new lines to allow paragraphs
-                                  96.8%, Valedictorian
+                                \t \t \t 96.8%, Valedictorian
 
   - title: A Little More About Me
     layout: text
