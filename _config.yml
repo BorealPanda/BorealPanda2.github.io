@@ -34,6 +34,9 @@ additional_links:
 - title: itsgoingto.be
   icon: 	far fa-file-alt
   url: https://www.itsgoingto.be
+- title: itsgoingto.be
+  icon: 	fas fa-trophy
+  url: https://www.itsgoingto.be
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
