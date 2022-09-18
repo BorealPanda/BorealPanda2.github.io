@@ -74,7 +74,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           I started this project as a way to help villages in India where COVID-19 was spreading rapidly. These devices were mainly used by local shops to ensure that their customers could stay safe. 
       - layout: top-middle
-        title: Touch-free hand sanitizer
+        title: Weather Prediction using Python
         link: github.com/BorealPanda
         # link_text: Project Website
         additional_links:
@@ -85,9 +85,10 @@ content:
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          I made and distributed touch free hand sanitizer dispensers during the COVID-19 pandemic
+          Weather prediction program made using machine learning in python
         description: | # this will include new lines to allow paragraphs
-          I started this project as a way to help villages in India where COVID-19 was spreading rapidly. These devices were mainly used by local shops to ensure that their customers could stay safe. 
+          Dataset used: Los Angeles Airport(LAX) weather data downloaded from NOAA
+          Tools used: Python, Jupyter, Pandas, NumPy, SQL
           
           
 
