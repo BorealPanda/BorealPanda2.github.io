@@ -59,7 +59,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: 
+        title: Touch-free hand sanitizer
         link: github.com/BorealPanda
         # link_text: Project Website
         additional_links:
@@ -73,6 +73,22 @@ content:
           I made and distributed touch free hand sanitizer dispensers during the COVID-19 pandemic
         description: | # this will include new lines to allow paragraphs
           I started this project as a way to help villages in India where COVID-19 was spreading rapidly. These devices were mainly used by local shops to ensure that their customers could stay safe. 
+        title: Touch-free hand sanitizer
+        link: github.com/BorealPanda
+        # link_text: Project Website
+        additional_links:
+          - title:  sproogen/modern-resume-theme
+            icon: fab fa-github
+            url: github.com/sproogen/modern-resume-theme
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+          I made and distributed touch free hand sanitizer dispensers during the COVID-19 pandemic
+        description: | # this will include new lines to allow paragraphs
+          I started this project as a way to help villages in India where COVID-19 was spreading rapidly. These devices were mainly used by local shops to ensure that their customers could stay safe. 
+          
+          
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
