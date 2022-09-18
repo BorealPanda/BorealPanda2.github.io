@@ -32,7 +32,7 @@ youtube_username: globalmtb
 # Additional icon links
 additional_links:
 - title: itsgoingto.be
-  icon: fas fa-globe
+  icon: 	far fa-file-alt
   url: https://www.itsgoingto.be
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
@@ -48,8 +48,7 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Swayam and I'm a BS Computer Science freshman at Cal Poly SLO. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
-
+  Hi, my name is Swayam and I'm a BS Computer Science freshman at Cal Poly SLO. I'm interested in Machine Learning, Data Scienc and Web Development. I have been programming for many years.
   I am most skilled in: <mark>Python</mark> , <mark>Java</mark> and <mark>SQL</mark>
 
 content:
