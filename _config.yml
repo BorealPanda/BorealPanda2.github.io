@@ -6,7 +6,7 @@ favicon: images/favicon.ico
 version: 2
 
 # Personal info
-name: Swayam Chidrawar (He/Him/His)
+name: Swayam Chidrawar
 title: BS Computer Science Freshman @ Cal Poly, San Luis Obispo
 email: swayamchidrawar@aol.com
 website: www.github.com/sproogen/resume-theme
@@ -51,8 +51,7 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile2.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name is Swayam and I'm a BS Computer Science freshman at Cal Poly SLO. I'm interested in Machine Learning, Data Science and Web Development. I have been programming for many years.
-about_content: |
+  Hi, my name is Swayam(He/Him/His) and I'm a BS Computer Science freshman at Cal Poly SLO. I'm interested in Machine Learning, Data Science and Web Development. I have been programming for many years.
   I am most skilled in: <mark>Python</mark> , <mark>Java</mark> and <mark>SQL</mark>
 
 content:
