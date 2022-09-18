@@ -73,6 +73,8 @@ content:
           I made and distributed touch free hand sanitizer dispensers during the COVID-19 pandemic
         description: | # this will include new lines to allow paragraphs
           I started this project as a way to help villages in India where COVID-19 was spreading rapidly. These devices were mainly used by local shops to ensure that their customers could stay safe. 
+      
+      
       - layout: top-middle
         title: Weather Prediction using Python
         link: github.com/BorealPanda
@@ -88,6 +90,24 @@ content:
           Weather prediction program made using machine learning in python
         description: | # this will include new lines to allow paragraphs
           Dataset used: Los Angeles Airport(LAX) weather data downloaded from NOAA
+          Tools used: Python, Jupyter, Pandas, NumPy, SQL
+
+
+      - layout: top-middle
+        title: Cricket match predictor
+        link: github.com/BorealPanda
+        # link_text: Project Website
+        additional_links:
+          - title:  sproogen/modern-resume-theme
+            icon: fab fa-github
+            url: github.com/sproogen/modern-resume-theme
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+          Used to predict the outcomes of IPL matches.
+        description: | # this will include new lines to allow paragraphs
+          Data scrapped from cricinfo and other sources
           Tools used: Python, Jupyter, Pandas, NumPy, SQL
           
           
