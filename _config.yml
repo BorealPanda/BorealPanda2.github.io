@@ -7,15 +7,15 @@ version: 2
 
 # Personal info
 name: Swayam Chidrawar
-title: BS Computer Science Freshman @Cal Poly, San Luis Obispo
-email: schidraw@calpoly.edu
+title: BS Computer Science Freshman @ Cal Poly, San Luis Obispo
+email: swayamchidrawar@aol.com
 website: www.github.com/sproogen/resume-theme
 
 # Dark Mode (true/false/never)
 darkmode: false
 
 # Social links
-twitter_username: facespics
+# twitter_username: facespics
 github_username:  BorealPanda
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
@@ -50,7 +50,7 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Swayam and I'm a BS Computer Science freshman at Cal Poly SLO. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
 
-  I am most skilled in: <mark>Python</mark> <mark>Java</mark> and <mark>SQL</mark>
+  I am most skilled in: <mark>Python</mark> , <mark>Java</mark> and <mark>SQL</mark>
 
 content:
   - title: Projects # Title for the section
