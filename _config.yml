@@ -148,6 +148,16 @@ content:
         description: | # this will include new lines to allow paragraphs
           &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;96.8%, Valedictorian
 
+    - title: Courses # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: CS50x
+        link: https://certificates.cs50.io/06fb9c42-3c87-4aaa-9b98-c8fe528921b0.pdf?size=letter
+        link_text: credential
+        quote: >
+          Harvard University/edX
+
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
