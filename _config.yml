@@ -110,8 +110,6 @@ content:
           Data scrapped from cricinfo and other sources
           Tools used: Python, Jupyter, Pandas, NumPy, SQL
           
-          
-
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -176,7 +174,7 @@ content:
         link_text: CREDENTIAL🔗
         quote: >
           Udemy
-          
+
      - layout: top-middle
         title: Complete Python Bootcamp From Zero to Hero in Python
         link: https://www.udemy.com/certificate/UC-WQRIP0QK/
@@ -193,7 +191,6 @@ content:
       - Cricket
       - Anime
       - Manga
-      - 
 
       Look at this cool image  
       ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
