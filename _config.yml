@@ -154,15 +154,27 @@ content:
       - layout: center
         title: CS50x - Introduction to Computing
         link: https://certificates.cs50.io/06fb9c42-3c87-4aaa-9b98-c8fe528921b0.pdf?size=letter
-        link_text: credential🔗
+        link_text: CREDENTIAL
         quote: >
           Harvard University/edX
       - layout: left
         title: Complete Python Bootcamp From Zero to Hero in Python
-        link: https://certificates.cs50.io/06fb9c42-3c87-4aaa-9b98-c8fe528921b0.pdf?size=letter
-        link_text: credential🔗
+        link: https://www.udemy.com/certificate/UC-WQRIP0QK/
+        link_text: CREDENTIAL
         quote: >
-          Harvard University/edX
+          Udemy
+      - layout: left
+        title: Machine Learning, Data Science and Deep Learning with Python
+        link: https://www.udemy.com/certificate/UC-ca9eec56-24b3-470d-bdaf-2740d985cedf/
+        link_text: CREDENTIAL
+        quote: >
+          Udemy
+      - layout: left
+        title: The Complete SQL Bootcamp- Go from Zero to Hero
+        link: https://www.udemy.com/certificate/UC-d8b6f76c-be8a-4139-b263-352aaa79815e/
+        link_text: CREDENTIAL
+        quote: >
+          Udemy
 
   - title: A Little More About Me
     layout: text
