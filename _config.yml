@@ -144,6 +144,16 @@ content:
           Valedictorian
         description: | # this will include new lines to allow paragraphs
 
+      - layout: top-middle
+        title: Woodridge High School
+        caption: 2018-2020
+        sub_title: Grade 10 (CBSE)
+        quote: >
+          Physics, Chemistry, Math, English
+          96.4%
+          Valedictorian
+        description: | # this will include new lines to allow paragraphs
+
   - title: Courses # Title for the section
     layout: list # Type of content section (list/text)
     content:
