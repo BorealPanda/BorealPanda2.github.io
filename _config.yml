@@ -50,7 +50,8 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile3.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi! my name is Swayam(He/Him/His) and I'm a BS Computer Science freshman at Cal Poly SLO. I'm interested in Machine Learning, Data Science and Web Development. I am looking for an internship for summer 2023 where I can get real world experience while also honing my skills. I am eligible to work in the United States.
+  Hi! my name is Swayam(He/Him/His) and I'm a BS Computer Science freshman at Cal Poly SLO. 
+  I'm interested in Machine Learning, Data Science and Web Development. I am looking for an internship for summer 2023 where I can get real world experience while also honing my skills. I am eligible to work in the United States.
   &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;I am most skilled in: <mark>Python</mark> , <mark>Java</mark> and <mark>SQL</mark>
 content:
   - title: Projects # Title for the section
