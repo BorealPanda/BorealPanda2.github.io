@@ -148,7 +148,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;96.8%, Valedictorian
 
-    - title: Courses # Title for the section
+  - title: Courses # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
