@@ -7,7 +7,7 @@ version: 2
 # Personal info
 name: Swayam Chidrawar
 title: BS Computer Science Freshman @ Cal Poly, San Luis Obispo
-email: swayamchidrawar@aol.com
+email: schidraw@calpoly.edu
 website: https://linktr.ee/swaychidrawar
 
 # Dark Mode (true/false/never)
@@ -32,7 +32,7 @@ linkedin_username: swayamchidrawar
 additional_links:
 - title: itsgoingto.be
   icon: 	far fa-file-alt
-  url: https://www.itsgoingto.be
+  url: https://file.io/GFCXCoxsULuW
 - title: itsgoingto.be
   icon: 	fas fa-trophy
   url: https://www.itsgoingto.be
