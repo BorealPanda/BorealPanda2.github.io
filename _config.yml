@@ -147,7 +147,7 @@ content:
   - title: Courses # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: center
+      - layout: top-middle
         title: CS50x - Introduction to Computing
         link: https://certificates.cs50.io/06fb9c42-3c87-4aaa-9b98-c8fe528921b0.pdf?size=letter
         link_text: CREDENTIAL🔗
