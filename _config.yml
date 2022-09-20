@@ -154,7 +154,7 @@ content:
       - layout: left
         title: CS50x
         link: https://certificates.cs50.io/06fb9c42-3c87-4aaa-9b98-c8fe528921b0.pdf?size=letter
-        link_text: credential
+        link_text: credential🔗
         quote: >
           Harvard University/edX
 
