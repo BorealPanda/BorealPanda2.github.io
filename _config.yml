@@ -150,6 +150,7 @@ content:
           96.4%
           Valedictorian
         description: | # this will include new lines to allow paragraphs
+          hi
 
   - title: Courses # Title for the section
     layout: list # Type of content section (list/text)
