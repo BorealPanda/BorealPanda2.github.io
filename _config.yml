@@ -148,11 +148,10 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: CS50x - Introduction to Computing
+        title: CS50x - Introduction to Computing (Harvard University/edX)
         link: https://certificates.cs50.io/06fb9c42-3c87-4aaa-9b98-c8fe528921b0.pdf?size=letter
         link_text: CREDENTIAL🔗
-        quote: >
-          Harvard University/edX
+          
       - layout: left
         title: Complete Python Bootcamp From Zero to Hero in Python
         link: https://www.udemy.com/certificate/UC-WQRIP0QK/
