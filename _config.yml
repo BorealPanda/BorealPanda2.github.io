@@ -88,7 +88,8 @@ content:
         quote: >
           Tools used: Python, Jupyter, Pandas, NumPy, SQL
         description: | # this will include new lines to allow paragraphs
-          Weather prediction program made using machine learning in python
+          Weather prediction program made using machine learning in python  
+          
           Dataset used: Los Angeles Airport(LAX) weather data downloaded from NOAA
           
           
