@@ -86,10 +86,11 @@ content:
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          Weather prediction program made using machine learning in python
-        description: | # this will include new lines to allow paragraphs
-          Dataset used: Los Angeles Airport(LAX) weather data downloaded from NOAA
           Tools used: Python, Jupyter, Pandas, NumPy, SQL
+        description: | # this will include new lines to allow paragraphs
+          Weather prediction program made using machine learning in python
+          Dataset used: Los Angeles Airport(LAX) weather data downloaded from NOAA
+          
           
           
   - title: Experience # Title for the section
