@@ -164,7 +164,6 @@ content:
           Udemy
   
   - title: Awards # Title for the section
-    icon: fab fa-github
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
