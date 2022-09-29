@@ -92,9 +92,8 @@ content:
         quote: >
           Tools used: Python, Jupyter, Pandas, NumPy, SQL
         description: | # this will include new lines to allow paragraphs
-          Weather prediction program made using machine learning in python  
-
-          Dataset used: Los Angeles Airport(LAX) weather data downloaded from NOAA
+          •	Predicted next week's weather for Los Angeles area.  
+          •	Data taken from NOAA
           
           
           
@@ -112,7 +111,7 @@ content:
         description: | # this will include new lines to allow paragraphs
             •	Worked on developing skincare products made from cow dung using the principles of Ayurveda.  
             •	Worked on package design and product development
-            
+
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
