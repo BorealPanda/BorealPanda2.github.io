@@ -168,9 +168,20 @@ content:
     content:
       - layout: top-middle
         title: Artificial Intelligence and Robotics Olympiad 
-        caption: nternational Rank – 15
+        caption: International Rank – 15
         #sub_title: BS Computer Science w/Cross Disciplinary Minor in Data Science
-  
+        
+      - layout: top-middle
+        title: National Cyber Olympiad 	 
+        caption: International Rank – 14
+        #sub_title: BS Computer Science w/Cross Disciplinary Minor in Data Science
+
+      - layout: top-middle
+        title: TCS IT Wiz International Quiz Competition 	 
+        caption: Placed in the Top 16 Internationally
+        sub_title: Conducted by Tata Consultancy Services (TCS) – The Largest IT Company in India
+
+
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
