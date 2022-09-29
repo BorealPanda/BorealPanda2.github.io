@@ -110,9 +110,9 @@ content:
         quote: >
           An organic skincare startup based in India.
         description: | # this will include new lines to allow paragraphs
-            •	Worked on developing skincare products made from cow dung using the principles of Ayurveda.
-            &emsp;
+            •	Worked on developing skincare products made from cow dung using the principles of Ayurveda.  
             •	Worked on package design and product development
+            
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
