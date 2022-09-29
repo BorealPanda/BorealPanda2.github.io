@@ -59,19 +59,23 @@ content:
     content:
       - layout: top-middle
         title: Touch-free hand sanitizer
-        link: github.com/BorealPanda
+        #link: github.com/BorealPanda
         # link_text: Project Website
-        additional_links:
-          - title:  sproogen/modern-resume-theme
-            icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
+        #additional_links:
+          #- title:  sproogen/modern-resume-theme
+            #icon: fab fa-github
+            #url: github.com/sproogen/modern-resume-theme
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
           I made and distributed touch free hand sanitizer dispensers during the COVID-19 pandemic
         description: | # this will include new lines to allow paragraphs
-          I started this project as a way to help villages in India where COVID-19 was spreading rapidly. These devices were mainly used by local shops to ensure that their customers could stay safe. 
+          •	Created a touch-free hand sanitizer used to curb the spread of Coronavirus (COVID-19)  
+          •	Used IR sensor to detect hand proximity  
+          •	Distributed and sold dispensers to local businesses and organizations.  
+          •	Our device provided a feasible solution for keeping businesses open before mass market options became accessible.  
+
       
       
       - layout: top-middle
@@ -89,7 +93,7 @@ content:
           Tools used: Python, Jupyter, Pandas, NumPy, SQL
         description: | # this will include new lines to allow paragraphs
           Weather prediction program made using machine learning in python  
-          
+
           Dataset used: Los Angeles Airport(LAX) weather data downloaded from NOAA
           
           
