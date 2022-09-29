@@ -162,6 +162,15 @@ content:
         link_text: CREDENTIAL🔗
         quote: >
           Udemy
+  
+  - title: Awards # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: top-middle
+        title: Artificial Intelligence and Robotics Olympiad 
+        caption: nternational Rank – 15
+        #sub_title: BS Computer Science w/Cross Disciplinary Minor in Data Science
+  
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
