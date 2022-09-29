@@ -57,6 +57,26 @@ content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
+
+      - layout: top-middle
+        title: Script to Determine the Best Time to do Laundry in tiłhini - Personal Project
+        #link: github.com/BorealPanda
+        # link_text: Project Website
+        additional_links:
+          - title:  sproogen/modern-resume-theme
+            icon: fab fa-github
+            url: github.com/sproogen/modern-resume-theme
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+          Languages and Tools Utilized: Python, SQL
+        description: | # this will include new lines to allow paragraphs
+          •	Created a python script to find the best time to do laundry in tiłhini  
+          •	Data obtained from the wash alert website.  
+          •	Used web scraping to log when the laundry machines are available.  
+          •	Logged data on a local SQL database.
+
       - layout: top-middle
         title: Touch-free hand sanitizer
         #link: github.com/BorealPanda
